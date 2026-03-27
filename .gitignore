@@ -1,0 +1,14 @@
+*.db
+*.log
+snapshots/
+wifi_probe_cache.json
+*.bak
+*.bak.*
+*.bak2
+__pycache__/
+opt*.py
+patch_*.py
+web_update_*.py
+config.json
+h3c_arp.py
+patch_wifi.py
